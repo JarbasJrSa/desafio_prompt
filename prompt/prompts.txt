@@ -1,0 +1,21 @@
+1 - prompt 
+gere um relatorio em formato markdown com uma coluna nova convertendo os valor total de venda menos o valor de desconto para dolar americano , 
+totalize a quantidade vendida e o valor da nova coluna por site .
+
+2 - prompt
+gere um novo relatorio que mostra a faixa etaria por site
+
+3 - prompt
+gere um novo relatorio com a curva abc dos produtos , considere a coluna "product_sol" para isso
+
+4 - prompt
+gere um relatorio das vendas totalizando por país
+
+5 - prompt 
+gere um gráfico do relatório 
+
+6 - prompt
+gere um relatorio de vendas totalizando quantidade e valor liquido por mes e ano
+
+7 - prompt 
+gere um gráfico do relatório 
